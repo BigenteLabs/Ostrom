@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Mira mi amor mi primera página web online qué me dices
+          Aquí pondremos estrategias del age of empoire
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click para ver mi paper
+          Click aqui para ver mi paper del COVID
         </a>
       </header>
     </div>
