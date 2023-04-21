@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          POR QUE CHUCHA NO ESTAMOS JUGANDO AGE.
+          Mire mi amor mi primera página web online qué me dice
         </p>
         <a
           className="App-link"
-          href="https://www.pornhub.com"
+          href="https://www.sciencedirect.com/science/article/pii/S1364032122000636?dgcid=coauthor"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click aquí para jugar
+          Click para ver mi paper
         </a>
       </header>
     </div>
